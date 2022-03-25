@@ -78,4 +78,4 @@ December 14, 2019
 ## How to contact me
 
 I would be happy to receive invites to different kind of tech events (meetups, workshops, conferences, podcasts, etc.). 
-Please contact me on [twitter](https://twitter.com/jevgeniazi) or on Telegram — @jevgeniazi.
+Please contact me on [twitter](https://twitter.com/jevgeniazi).
