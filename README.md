@@ -13,6 +13,18 @@ Eugenia is a web engineer and tech event speaker who is passionate about web per
 ## Planned talks
 
 <details>
+  <summary><b>Sustainable Web Engineering</b></summary>
+  What do digital technologies and civil aviation have in common? They emit approximately the same amount of greenhouse gas. An enormous amount of energy is needed to develop, host, and access digital products. As a tech startup, your goal is to grow and rapidly expand the number of users. However, the more users you have the bigger is your impact on ecology.
+
+Digital technologies are a broad industry. In this session, we will focus on one of the most popular digital platforms—the web. We will discuss how web apps impact global ecology and what we as web developers and tech leads can do to lower it and make our startups more sustainable.
+</details>
+
+[Berlin Tech Leads](https://www.meetup.com/berlin-tech-leads/events/) </br>
+April 25 - 28, 2022
+
+## Speaking history
+
+<details>
   <summary><b>State machine pattern in FE development</b></summary>
   State management is a hard problem in applications not only on a global but also on the component level. It happens that components are over-stacked with boolean variables like `isLoading` , `isError`, and so on. That makes logic convoluted and easy to cause a bug.
 
@@ -24,7 +36,6 @@ By the end of the talk, you will understand how to implement the UI component st
 [International Javascript Conference](https://javascript-conference.com/javascript-practices-tools/state-machine-pattern-in-fe-development/) </br>
 April 25 - 28, 2022
 
-## Speaking history
 
 <details>
   <summary><b>Bootstrapping web performance culture</b></summary>
