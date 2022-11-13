@@ -2,7 +2,7 @@
 # Speaking Info
 
 ## Bio
-Eugenia is a web engineer and tech event speaker who is passionate about web performance. She has experience working in fast-growing European startups like N26 and Gorillas where she helped to build a web performance culture. Before moving to Berlin, she ran Google Developer Group and led Women Techmakers in Latvia for several years. Eugenia has a bachelor's degree in Information Technologies. Besides work, she is an adventurous hiker. 
+Eugenia is a frontend engineer at RapidAPI—the world's largest API Hub, and tech event speaker who is passionate about web performance. She has experience working in fast-growing European startups like N26 and Gorillas where she helped to build a web performance culture. Before moving to Berlin, she ran Google Developer Group and led Women Techmakers in Latvia for several years. Eugenia has a bachelor's degree in Information Technologies. Besides work, she is an adventurous hiker. 
 
 ## Social media
 - Twitter: https://twitter.com/jevgeniazi
